@@ -9,9 +9,14 @@
     "web": "expo start --web"
   },
   "dependencies": {
+    "@react-native-async-storage/async-storage": "^1.23.1",
+    "@react-native-community/netinfo": "^11.3.2",
     "@react-navigation/bottom-tabs": "^6.5.20",
     "@react-navigation/native": "^6.1.17",
     "@react-navigation/native-stack": "^6.9.26",
+    "amazon-cognito-identity-js": "^6.3.13",
+    "aws-amplify": "^5.3.19",
+    "aws-amplify-react-native": "^7.0.8",
     "dayjs": "^1.11.11",
     "expo": "~51.0.14",
     "expo-status-bar": "~1.12.1",
