@@ -45,7 +45,13 @@ const styles = StyleSheet.create({
   },
   subTitle: {
     color: 'gray',
+    // width:'100%',
+    // flex:1,
+    // alignSelf:'stretch'
   },
+  content: {
+    flex:1,
+  }
 });
 
 export default ContactListItem;

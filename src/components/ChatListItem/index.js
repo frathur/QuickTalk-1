@@ -63,6 +63,7 @@ const styles = StyleSheet.create({
   },
   subTitle: {
     color: "grey",
+   
   },
 });
 
